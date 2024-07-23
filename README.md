@@ -10,3 +10,25 @@
 <img src="https://github-readme-stats.vercel.app/api?username=essuraj&show_icons=true&count_private=true" />
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=essuraj.essuraj)
+
+## Technologies worked with
+
+<p>
+
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A.svg?logo=javascript&logoColor=F7DF1E">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-58af50.svg?logo=node.js&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-5ac8f8?logo=flutter&logoColor=white">
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-5baa43.svg?logo=mongodb&logoColor=white">
+<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-20232A.svg?logo=markdown&logoColor=white">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-167acd.svg?logo=visual-studio-code&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-02569B?logo=Docker&logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-f6db47?logo=linux&logoColor=black">
+<img alt="AWS" src="https://img.shields.io/badge/Vercel-20232A.svg?logo=vercel&logoColor=white">
+
+</p>
