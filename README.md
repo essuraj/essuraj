@@ -12,7 +12,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=essuraj.essuraj)
 
 ## Technologies worked with
-
+[Visitors](https://visitor-badge.laobi.icu/badge?page_id=essuraj.essuraj)
 <p>
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A.svg?logo=javascript&logoColor=F7DF1E">
